@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Ragat",
+    "description": "No description",
+    "slug": "ragat",
+    "privacy": "public",
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "https://cdn4.iconfinder.com/data/icons/medical-blood-1/512/blood_drop-512.png",
+    "loading": {
+      "icon": "https://cdn4.iconfinder.com/data/icons/medical-blood-1/512/blood_drop-512.png",
+      "hideExponentText": false
+    },
+    "android":{
+      "package":"com.bitsnbytes.ragat"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "mp4",
+        "otf",
+        "xml"
+      ]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
